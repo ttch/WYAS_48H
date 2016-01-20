@@ -18,8 +18,8 @@ This tutorial targets two main audiences:
 
 >本教程主要针对两类读者
 
-* People who already know Lisp or Scheme, and want to learn Haskell
+* People who already know [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) or [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), and want to learn [Haskell](https://en.wikipedia.org/wiki/Haskell)
 * People who don't know any programming language, but have a strong quantitative background, and are familiar with computers
 
-* 已经懂Lisp和Scheme的人，并想去学习Haskell
+* 已经懂[Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))和[Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))的人，并想去学习[Haskell](https://en.wikipedia.org/wiki/Haskell)
 * 并不知道任何编程语言，并且拥有强大的计算机背景，和熟悉计算机的人(CS专业最佳)
