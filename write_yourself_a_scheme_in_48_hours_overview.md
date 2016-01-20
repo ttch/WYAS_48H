@@ -11,4 +11,5 @@ Most Haskell tutorials on the web use a style of teaching akin to language refer
 
 This tutorial takes a different approach. You'll start off using and parsing the command-line, then progress to writing a fully-functional Scheme interpreter that implements a decent subset of R5RS Scheme. Along the way, you'll learn Haskell's I/O, mutable state, dynamic typing, error handling, and parsing features. By the time you finish, you should become fairly fluent in Haskell and Scheme.
 
->本教程需要另辟蹊径，
+
+>本教程需要另辟蹊径。你将始于使用命令行和语法特性，写一个全功能的Scheme解析器，实现一个[R5RS](http://web.archive.org/web/20131411513100/http://www.schemers.org/Documents/Standards/R5RS/HTML/) Scheme完整子集。沿途，你将学习Haskell的I/O,可变状态，动态类型，错误处理和解析特性。当你完成的时刻，你将流利的编写Haskell和Scheme。
