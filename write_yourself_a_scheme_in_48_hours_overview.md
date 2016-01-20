@@ -13,3 +13,13 @@ This tutorial takes a different approach. You'll start off using and parsing the
 
 
 >本教程需要另辟蹊径。你将始于使用命令行和语法特性，写一个全功能的Scheme解析器，实现一个[R5RS](http://web.archive.org/web/20131411513100/http://www.schemers.org/Documents/Standards/R5RS/HTML/) Scheme完整子集。沿途，你将学习Haskell的I/O,可变状态，动态类型，错误处理和解析特性。当你完成的时刻，你将流利的编写Haskell和Scheme。
+
+This tutorial targets two main audiences:
+
+>本教程主要针对两类读者
+
+* People who already know Lisp or Scheme, and want to learn Haskell
+* People who don't know any programming language, but have a strong quantitative background, and are familiar with computers
+
+* 已经懂Lisp和Scheme的人，并想去学习Haskell
+* 并不知道任何编程语言，并且拥有强大的计算机背景，和熟悉计算机的人(CS专业最佳)
